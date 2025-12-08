@@ -6,6 +6,7 @@ import {schemaTypes} from './schemaTypes'
 export default defineConfig({
   name: 'default',
   title: 'Compuclinic Website',
+  basePath: '/studio',
 
   projectId: '9eaaziyj',
   dataset: 'production',
